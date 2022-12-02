@@ -54,6 +54,10 @@ header ul li button:hover{
     /* border-color: crimson; */
     box-shadow: -4px -2px 1px 1px crimson;
 }
+header ul li button:focus{
+    box-shadow: -4px -2px 1px 1px crimson;
+    
+}
 section{
     width: 90vw;
     max-width: 1170px;
